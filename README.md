@@ -1,12 +1,26 @@
 ## GoldensGorillaNameTags
-<a href="https://github.com/GoldenIsAProtogen/GoldensGorillaNametags/releases/latest">
+/*<a href="https://github.com/GoldenIsAProtogen/GoldensGorillaNametags/releases/latest">
     <img src="https://img.shields.io/github/downloads/GoldenIsAProtogen/GoldensGorillaNametags/total?label=Downloads&style=for-the-badge" alt="Downloads">
     <img src="https://img.shields.io/github/v/release/GoldenIsAProtogen/GoldensGorillaNametags?label=Version&style=for-the-badge" alt="Version">
     <img src="https://img.shields.io/github/last-commit/GoldenIsAProtogen/GoldensGorillaNametags?style=for-the-badge" alt="Last Commit">
     <img src="https://img.shields.io/github/repo-size/GoldenIsAProtogen/GoldensGorillaNametags?style=for-the-badge" alt="Repo Size">
     <img src="https://img.shields.io/github/stars/GoldenIsAProtogen/GoldensGorillaNametags?style=for-the-badge" alt="Stars">
     <img src="https://img.shields.io/github/forks/GoldenIsAProtogen/GoldensGorillaNametags?style=for-the-badge" alt="Forks">
+</a>*/
+
+<a href="https://github.com/GoldenIsAProtogen/GoldensGorillaNametags">
+    <img src="https://img.shields.io/github/downloads/GoldenIsAProtogen/GoldensGorillaNametags/total?label=Downloads&style=for-the-badge&color=lime" alt="Downloads">
+    <img src="https://img.shields.io/github/v/release/GoldenIsAProtogen/GoldensGorillaNametags?label=Version&style=for-the-badge&color=blue" alt="Version">
+    <img src="https://img.shields.io/github/last-commit/GoldenIsAProtogen/GoldensGorillaNametags?label=Last%20Commit&style=for-the-badge" alt="Last Commit">
+    <img src="https://img.shields.io/github/issues/GoldenIsAProtogen/GoldensGorillaNametags?label=Issues&style=for-the-badge" alt="Issues">
+    <img src="https://img.shields.io/github/stars/GoldenIsAProtogen/GoldensGorillaNametags?label=Stars&style=for-the-badge" alt="Stars">
+    <img src="https://img.shields.io/github/forks/GoldenIsAProtogen/GoldensGorillaNametags?label=Forks&style=for-the-badge" alt="Forks">
+    <img src="https://img.shields.io/github/license/GoldenIsAProtogen/GoldensGorillaNametags?label=License&style=for-the-badge" alt="License">
+    <img src="https://img.shields.io/github/languages/top/GoldenIsAProtogen/GoldensGorillaNametags?label=Language&style=for-the-badge" alt="Language">
+    <img src="https://img.shields.io/badge/Gorilla%20Tag-Mod-success?style=for-the-badge" alt="Gorilla Tag Mod">
+    <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status">
 </a>
+
 
 ## GoldensGorillaNameTagsMC
 <a href="https://github.com/GoldenIsAProtogen/GoldensGorillaNameTagsMC/releases/latest">
