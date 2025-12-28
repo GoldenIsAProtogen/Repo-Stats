@@ -6,9 +6,6 @@
     <img src="https://img.shields.io/github/repo-size/GoldenIsAProtogen/GoldensGorillaNametags?style=for-the-badge" alt="Repo Size">
     <img src="https://img.shields.io/github/stars/GoldenIsAProtogen/GoldensGorillaNametags?style=for-the-badge" alt="Stars">
     <img src="https://img.shields.io/github/forks/GoldenIsAProtogen/GoldensGorillaNametags?style=for-the-badge" alt="Forks">
-    <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status: Active">
-    <img src="https://img.shields.io/badge/Status-Maintained-blue?style=for-the-badge" alt="Status: Maintained">
-    <img src="https://img.shields.io/badge/Status-Inactive-red?style=for-the-badge" alt="Status: Inactive">
 </a>
 
 ## GoldensGorillaNameTagsMC
@@ -19,7 +16,6 @@
     <img src="https://img.shields.io/github/repo-size/GoldenIsAProtogen/GoldensGorillaNameTagsMC?style=for-the-badge" alt="Repo Size">
     <img src="https://img.shields.io/github/stars/GoldenIsAProtogen/GoldensGorillaNameTagsMC?style=for-the-badge" alt="Stars">
     <img src="https://img.shields.io/github/forks/GoldenIsAProtogen/GoldensGorillaNameTagsMC?style=for-the-badge" alt="Forks">
-    <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status">
 </a>
 
 ## HideForestKiosk
@@ -30,7 +26,6 @@
     <img src="https://img.shields.io/github/repo-size/GoldenIsAProtogen/HideForestKiosk?style=for-the-badge" alt="Repo Size">
     <img src="https://img.shields.io/github/stars/GoldenIsAProtogen/HideForestKiosk?style=for-the-badge" alt="Stars">
     <img src="https://img.shields.io/github/forks/GoldenIsAProtogen/HideForestKiosk?style=for-the-badge" alt="Forks">
-    <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status">
 </a>
 
 ## Feather
@@ -41,5 +36,4 @@
     <img src="https://img.shields.io/github/repo-size/GoldenIsAProtogen/Feather?style=for-the-badge" alt="Repo Size">
     <img src="https://img.shields.io/github/stars/GoldenIsAProtogen/Feather?style=for-the-badge" alt="Stars">
     <img src="https://img.shields.io/github/forks/GoldenIsAProtogen/Feather?style=for-the-badge" alt="Forks">
-    <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status">
 </a>
