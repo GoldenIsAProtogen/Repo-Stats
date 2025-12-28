@@ -37,3 +37,8 @@
     <img src="https://img.shields.io/github/stars/GoldenIsAProtogen/Feather?style=for-the-badge" alt="Stars">
     <img src="https://img.shields.io/github/forks/GoldenIsAProtogen/Feather?style=for-the-badge" alt="Forks">
 </a>
+
+## Statuses
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status: Active">
+<img src="https://img.shields.io/badge/Status-Maintained-blue?style=for-the-badge" alt="Status: Maintained">
+<img src="https://img.shields.io/badge/Status-Inactive-red?style=for-the-badge" alt="Status: Inactive">
