@@ -6,8 +6,9 @@
     <img src="https://img.shields.io/github/repo-size/GoldenIsAProtogen/GoldensGorillaNametags?style=for-the-badge" alt="Repo Size">
     <img src="https://img.shields.io/github/stars/GoldenIsAProtogen/GoldensGorillaNametags?style=for-the-badge" alt="Stars">
     <img src="https://img.shields.io/github/forks/GoldenIsAProtogen/GoldensGorillaNametags?style=for-the-badge" alt="Forks">
-    <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status">
-    <img src="https://img.shields.io/maintenance/yes/2025?style=for-the-badge" alt="Maintained">
+    <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status: Active">
+    <img src="https://img.shields.io/badge/Status-Maintained-blue?style=for-the-badge" alt="Status: Maintained">
+    <img src="https://img.shields.io/badge/Status-Not%20Updating-red?style=for-the-badge" alt="Status: Not Updating">
 </a>
 
 ## GoldensGorillaNameTagsMC
